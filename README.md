@@ -1,7 +1,7 @@
 # Stop_Watch
 This is my Stopwatch app project, Using  html, tailwind CSS and vanilla javascript.
 
-[Live link]()
+[Live link](https://badalkchy.github.io/Stop_Watch/)
 
 ## Preview
 
